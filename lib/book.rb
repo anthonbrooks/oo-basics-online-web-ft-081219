@@ -32,7 +32,7 @@ class Book
     @genre
   end
   
-  def self.turn_page
+  def turn_page
     
   end
 end
